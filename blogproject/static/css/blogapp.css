@@ -1,0 +1,49 @@
+.content{
+    width:60%;
+    float:left;
+    padding:10px 0 0 30px;
+    background:#808000;
+    height:100%
+}
+.sidebar{
+    width:40%;
+    float:right;
+    padding:10px;
+    background:	#800000;
+    height:100%
+    text-align:center;
+    border:1px solid yellow;
+    padding-bottom:10px;
+}
+ h1{
+    text-align:center;
+    border:1px solid yellow;
+    padding-bottom:10px;
+ }
+ .back_button{
+    text-align:center;
+  }
+
+.first{
+    background:#808000;
+    color:white;
+
+}
+#date{
+    color:yellow;
+    font-size:15px;
+    font-style:italic;
+}
+#ch{
+    color:yellow;
+    font-size:30px;
+    font-style:italic;
+    border-bottom:2px solid yellow:
+}
+#pcount{
+    color:black;
+    font-size:40px;
+    font-weight:bold;
+
+}
+
