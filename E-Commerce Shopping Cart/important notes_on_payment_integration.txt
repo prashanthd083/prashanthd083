@@ -1,2 +1,0 @@
-we shoud changge merchant id and merchant key in the key.py 
-and in paytm.html action should be changed
